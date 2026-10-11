@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/luck-or-judgement/commit/ecc7c9e5a6cf271fcffab26e511c2ac79a578127",
       "git:hexsha": "ecc7c9e5a6cf271fcffab26e511c2ac79a578127",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
